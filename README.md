@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MalikAsjal
+- 👋 Hi, I’m @MalikAsjalAkbar
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning everything i can
 - 💞️ I’m looking to collaborate on github with friend
